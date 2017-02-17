@@ -62,12 +62,12 @@ https://twitter.com/Nuno_M_Sarmento.
 
 **Screenshots**
 
-![Admin Panel Menu Social Bar Option](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/images/screenshot-1.png "Admin Panel Menu.")
-![NS degrees Social Bar](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/images/screenshot-2.png "Optional title")
-![NS degrees Social Bar colour background and hover effect](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/images/screenshot-3.png "Optional title")
-![Other NS Plugins](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/images/screenshot-4.png "Optional title")
-![Other NS Plugins](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/images/screenshot-5.png "Optional title")
-![Server Report](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/images/screenshot-6.png "Optional title")
+![Admin Panel Menu Social Bar Option](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/img/screenshot-1.png"Admin Panel Menu.")
+![NS degrees Social Bar](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/img/screenshot-2.png "Optional title")
+![NS degrees Social Bar colour background and hover effect](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/img/screenshot-3.png "Optional title")
+![Other NS Plugins](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/img/screenshot-4.png "Optional title")
+![Other NS Plugins](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/img/screenshot-5.png "Optional title")
+![Server Report](https://github.com/nfsarmento/nuno-sarmento-social-icons/blob/master/assets/img/screenshot-6.png "Optional title")
 
 
 
