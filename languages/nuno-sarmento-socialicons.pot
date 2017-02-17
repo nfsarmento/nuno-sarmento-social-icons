@@ -1,0 +1,106 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: ../admin/settings.php:32
+msgid "NS Social Bar"
+msgstr ""
+
+#: ../admin/settings.php:55
+msgid "Settings"
+msgstr ""
+
+#: ../admin/settings.php:62
+msgid "Social bar (disable)"
+msgstr ""
+
+#: ../admin/settings.php:70
+msgid "Facebook url"
+msgstr ""
+
+#: ../admin/settings.php:78
+msgid "Enable Facebook"
+msgstr ""
+
+#: ../admin/settings.php:86 nuno-sarmento-socialicons.php:127
+msgid "Linkedin"
+msgstr ""
+
+#: ../admin/settings.php:94
+msgid "Enable Linkedin"
+msgstr ""
+
+#: ../admin/settings.php:102 nuno-sarmento-socialicons.php:128
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/settings.php:110
+msgid "Enable Twitter"
+msgstr ""
+
+#: ../admin/settings.php:118 nuno-sarmento-socialicons.php:129
+msgid "Instagram"
+msgstr ""
+
+#: ../admin/settings.php:126
+msgid "Enable Instagram"
+msgstr ""
+
+#: ../admin/settings.php:134 nuno-sarmento-socialicons.php:130
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/settings.php:142
+msgid "Enable Dribbble"
+msgstr ""
+
+#: ../admin/settings.php:150 nuno-sarmento-socialicons.php:131
+msgid "Behance"
+msgstr ""
+
+#: ../admin/settings.php:158
+msgid "Enable Behance"
+msgstr ""
+
+#: ../admin/settings.php:166 nuno-sarmento-socialicons.php:132
+msgid "Google+"
+msgstr ""
+
+#: ../admin/settings.php:174
+msgid "Enable Google+"
+msgstr ""
+
+#: ../admin/settings.php:182
+msgid "Social Color Background"
+msgstr ""
+
+#: ../admin/settings.php:263
+msgid "Create a nice float vertical social media buttons."
+msgstr ""
+
+#: ../admin/settings.php:271 ../admin/settings.php:288
+#: ../admin/settings.php:302 ../admin/settings.php:316
+#: ../admin/settings.php:330 ../admin/settings.php:344
+#: ../admin/settings.php:358 ../admin/settings.php:373
+msgid "Disable"
+msgstr ""
+
+#: ../admin/settings.php:273 ../admin/settings.php:286
+#: ../admin/settings.php:300 ../admin/settings.php:314
+#: ../admin/settings.php:328 ../admin/settings.php:342
+#: ../admin/settings.php:356 ../admin/settings.php:357
+msgid "Enable"
+msgstr ""
+
+#: nuno-sarmento-socialicons.php:126
+msgid "Facebook"
+msgstr ""
