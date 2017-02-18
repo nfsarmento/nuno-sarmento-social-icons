@@ -29,12 +29,12 @@ Don't miss the opportunity, and help publish your content and links to those soc
 
 **Current features**
 
-* Admin Option Panel.
-* Fully responsive.
-* Option to enable social/disable buttons.
-* Option to change background colour.
-* Option to change Icon inner and outer colours.
-* Tab admin panel
+* Admin Option Panel. <br />
+* Fully responsive. <br />
+* Option to enable social/disable buttons. <br />
+* Option to change background colour. <br />
+* Option to change Icon inner and outer colours. <br />
+* Tab admin panel <br />
 
 
 
@@ -47,16 +47,16 @@ https://twitter.com/Nuno_M_Sarmento.
 
 **Localization**
 
-* English (default) - always included
-* Portuguese
+* English (default) - always included <br />
+* Portuguese <br />
 
 
 
 **Installation**
 
-1. Upload the plugin files to the `/wp-content/plugins/Nuno—Sarmento-social-icons` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress.
-3. Use the Settings->Plugin Name screen to configure the plugin.
+1. Upload the plugin files to the `/wp-content/plugins/Nuno—Sarmento-social-icons` directory, or install the plugin through the WordPress plugins screen directly. <br />
+2. Activate the plugin through the 'Plugins' screen in WordPress. <br />
+3. Use the Settings->Plugin Name screen to configure the plugin. <br />
 
 
 
